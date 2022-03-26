@@ -1,0 +1,36 @@
+body{
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.first-section{
+    display: flex;
+}
+.container{
+    margin-left: 160px;
+    margin-top: 50px;
+}
+.card{
+    height: 350px;
+    width: 260px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 10px #ddd;
+    padding-bottom: 10px;
+    margin: auto;
+}
+img{
+    height: 260px;
+    width: 260px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    color: #5E605D;
+    text-align: center;
+    margin-bottom: 10px;
+}
+h4{
+  color: #A6A6A5; 
+  text-align: center;
+  margin-top: 10px;
+}
