@@ -1,36 +1,22 @@
 body{
-    margin-top: 50px;
-    margin-left: 80px;
-}
-.first-section{
-    display: flex;
+    margin: 100px;
 }
 .container{
-    margin-left: 160px;
-    margin-top: 50px;
+    width: 33.33;
+    display: flex;
+    margin-left: 250px;
+    margin-top: 40px;
+    margin-right: 250px;
 }
 .card{
-    height: 350px;
-    width: 260px;
-    background-color: #FFFFFF;
-    box-shadow: 0px 0px 10px #ddd;
-    padding-bottom: 10px;
+    width: 200px;
+    box-shadow: 0px 0px 8px black;
+    padding-bottom: 8px;
     margin: auto;
 }
 img{
-    height: 260px;
-    width: 260px;
+    width: 200px;
 }
-h1{
+.aline{
     text-align: center;
-}
-h3{
-    color: #5E605D;
-    text-align: center;
-    margin-bottom: 10px;
-}
-h4{
-  color: #A6A6A5; 
-  text-align: center;
-  margin-top: 10px;
 }
